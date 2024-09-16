@@ -1,0 +1,117 @@
+{
+  "id": "solutionmaps-cyberpunk",
+  "title": "SolutionMaps-Cyberpunk",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Solution",
+      "url": "www.patreon.com/solutionmaps"
+    }
+  ],
+  "packs": [
+    {
+      "name": "sol-dystopiancity",
+      "label": "SOL-DystopianCity",
+      "path": "packs/sol-dystopiancity",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-wasteland",
+      "label": "SOL-Wasteland",
+      "path": "packs/sol-wasteland",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-corporate",
+      "label": "SOL-Corporate",
+      "path": "packs/sol-corporate",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-residential",
+      "label": "SOL-Residential",
+      "path": "packs/sol-residential",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-industrial",
+      "label": "SOL-Industrial",
+      "path": "packs/sol-industrial",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-misc",
+      "label": "SOL-Misc",
+      "path": "packs/sol-misc",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-commercial",
+      "label": "SOL-Commercial",
+      "path": "packs/sol-commercial",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-combat",
+      "label": "SOL-Combat",
+      "path": "packs/sol-combat",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-dystopianinteriors",
+      "label": "SOL-DystopianInteriors",
+      "path": "packs/sol-dystopianinteriors",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sol-scifi",
+      "label": "SOL-SciFi",
+      "path": "packs/sol-scifi",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

@@ -27,4 +27,9 @@ Enjoy!
 -Solution
 
 
+Manifest Link:
+https://github.com/SolutionMaps/solutionmaps-cyberpunk/releases/latest/download/module.json
+
+
+
 ![alt text](Example.jpg)

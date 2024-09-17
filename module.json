@@ -1,7 +1,8 @@
 {
   "id": "solutionmaps-cyberpunk",
   "title": "SolutionMaps - Patreon Supporter Cyberpunk & Sci-Fi Scene Module",
-  "version": "1.0.1",
+  "description": "A module of premade scenes with Walls and Lighting to be used with images from SolutionMaps Patreon.",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -12,6 +13,12 @@
       "url": "www.patreon.com/solutionmaps"
     }
   ],
+  "media": [
+	{
+		"type": "cover",
+		"url": "https://raw.githubusercontent.com/SolutionMaps/solutionmaps-cyberpunk/main/SolWallLightBanner.jpg"
+	}
+  ]
   "packs": [
     {
       "name": "sol-dystopiancity",

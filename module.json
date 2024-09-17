@@ -13,12 +13,6 @@
       "url": "www.patreon.com/solutionmaps"
     }
   ],
-  "media": [
-	{
-		"type": "cover",
-		"url": "https://raw.githubusercontent.com/SolutionMaps/solutionmaps-cyberpunk/main/SolWallLightBanner.jpg"
-	}
-  ]
   "packs": [
     {
       "name": "sol-dystopiancity",
